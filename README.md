@@ -1,2 +1,3 @@
 # arjsdemo
-demo AR.JS
+## demo:  AR.JS
+Référence : https://github.com/jeromeetienne/AR.js
